@@ -1,3 +1,3 @@
-module replast
+module goplast
 
 go 1.15
