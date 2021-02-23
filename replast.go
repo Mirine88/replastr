@@ -1,4 +1,4 @@
-package goplast
+package replast
 
 import (
 	"fmt"
