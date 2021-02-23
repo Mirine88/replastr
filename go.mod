@@ -1,3 +1,3 @@
-module github.com/Mirine88/replast
+module github.com/Mirine88/replastr
 
 go 1.15

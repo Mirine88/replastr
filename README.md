@@ -1,3 +1,0 @@
-# goplast
-
-**GOPLAST** IS GOOD PACKAGE TO (**GO**LANG) RE**PLA**CE **ST**RING

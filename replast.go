@@ -1,4 +1,4 @@
-package replast
+package replastr
 
 import (
 	"fmt"
